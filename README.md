@@ -1,5 +1,7 @@
 # android-sudoku
 sudoku game for android via dacing links algorithm
+## how to install
+app→release
 ## screen shoot
 ### main activity
 ![](https://github.com/Hikarie/android-sudoku/blob/master/main.png)
